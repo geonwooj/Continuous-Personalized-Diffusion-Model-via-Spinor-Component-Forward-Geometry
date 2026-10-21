@@ -1,6 +1,6 @@
-# Continuous Personalized Diffusion Model via Spinor-Component Forward Geometry
+# Continuous Personalized Diffusion Model by Spinor-Component Forward Geometry
 
-This repository contains the full codebase for **Continuous Personalized Diffusion Model via Spinor-Component Forward Geometry (CPDM)**, prepared for reproducibility.
+This repository contains the full codebase for **Continuous Personalized Diffusion Model by Spinor-Component Forward Geometry (CPDM)**, prepared for reproducibility.
 
 ---
 
